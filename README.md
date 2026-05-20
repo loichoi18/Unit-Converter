@@ -49,8 +49,7 @@ All three categories share a single Go `html/template` that conditionally render
 ### Run
 
 ```bash
-git clone <your-repo-url>
-cd unit-converter
+git clone https://github.com/loichoi18/Unit-Coverter
 go run main.go
 ```
 
